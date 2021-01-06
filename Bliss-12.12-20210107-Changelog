@@ -12,7 +12,7 @@ System
 ● Fixed wrong status bar padding 
 ● Fixed issue that battery stats isn't available in settings
 ● Fixed framedrops in some cases
-● Fixed abnormal battery drain while
+● Fixed abnormal battery drain
 ● Fixed issue that device fail SafetyNet test with Magisk
 ● Improve idle battery drain
 
